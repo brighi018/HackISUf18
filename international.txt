@@ -1,0 +1,10 @@
+tokyo : {id: "tokyo", weather: "Sunny", dayCost: 300, inUS: false, transTo: "Plane", transAt: "Public Scooter Walk", activity: "Outdoors Shopping Food"}, 
+toronto : {id: "toronto", weather: "Snow", dayCost: 200, inUS: false, transTo: "Plane Bus Carz", transAt: "Carz Bus Public", activity: "Shopping Outdoors Kid Free"},
+dublin : {id: "dublin", weather: "Rainy", dayCost: 300, inUS: false, transTo: "Plane Boat", transAt: "Carz Public", activity: "Eat Outdoors Food"},
+reykjavik : {id: "reykjavik", weather: "Rainy", dayCost: 500, inUS: false, transTo: "Plane", transAt: "Carz Public Bus", activity: "Outdoors"},
+sydney : {id: "sydney", weather: "Sunny", dayCost: 300, inUS: false, transTo: "Plane Boat", transAt: "Carz Public Bus Walk", activity: "Outdoors Shopping Kid Pet Free"},
+moscow : {id: "moscow", weather: "Snow", dayCost: 300, inUS: false, transTo: "Plane", transAt: "Carz Public Scooter Bus Walk", activity: "Outdoors Shopping Kid Free"},
+london : {id: "london", weather: "Rainy", dayCost: 400, inUS: false, transTo: "Plane Boat", transAt: "Carz Public Bus Walk Scooter", activity: "Outdoors Shopping Kid Pet Free"},
+caracas : {id: "caracas", weather: "Sunny", dayCost: 200, inUS: false, transTo: "Plane Boat", transAt: "Public Walk Scooter Bus", activity: "Outdoors Shopping Eat Free"},
+madrid : {id: "madrid", weather: "Sunny", dayCost: 400, inUS: false, transTo: "Plane Boat", transAt: "Public Walk Scooter Bus", activity: "Outdoors Shopping Eat Pet"},
+panamaCity : {id: "panamaCity", weather: "Sunny", dayCost: 300, inUs: false, transTo: "Plane Boat", transAt: "Public Walk Scooter", activity: "Outdoors Shopping Eat"}
